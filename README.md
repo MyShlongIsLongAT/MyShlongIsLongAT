@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MyShlongIsLongAT
 - 👀 I’m interested in Computers, Networking and Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently doing websites
 - 📫 How to reach me https://twitter.com/florianbreuker
 
 <!---
